@@ -1,0 +1,21 @@
+{
+  "name": "philnash",
+  "version": "1.0.0",
+  "description": "A GitHub README you can update with a text message",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philnash/philnash.git"
+  },
+  "keywords": [],
+  "author": "Phil Nash <philnash@twilio.com> (https://philna.sh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philnash/philnash/issues"
+  },
+  "homepage": "https://github.com/philnash/philnash#readme",
+  "dependencies": {}
+}
