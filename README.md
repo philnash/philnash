@@ -12,4 +12,4 @@ I'm a developer evangelist for [Twilio](https://www.twilio.com), a [Google Devel
 - 📫 How to reach me: [@philnash](https://twitter.com/philnash)
 - 😄 Pronouns: he/him
 - 🎧 Listening to: ska punk
-- ⚡ Fun fact: I helped found a [craft beer to your desk delivery service](https://deskbeers.com/)
+- ⚡ Fun fact: I once helped build an app that collected [the UK's favourite sandwich fillings](http://thegreatbritishsandwich.com/)
