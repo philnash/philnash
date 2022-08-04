@@ -3,7 +3,7 @@
 
 ---
 
-I'm a developer evangelist for [Twilio](https://www.twilio.com), a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-phil_nash) and a member of the [Live Coders team on Twitch](https://www.twitch.tv/team/livecoders). I write [Ruby gems](https://rubygems.org/profiles/philnash), [Node packages](https://www.npmjs.com/~philnash) and even the occasional [Crystal shard](https://crystalshards.org/shards/github/philnash/crotp).
+I'm a developer evangelist for [Twilio](https://www.twilio.com) and a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-phil_nash). I write [Ruby gems](https://rubygems.org/profiles/philnash), [Node packages](https://www.npmjs.com/~philnash) and even the occasional [Crystal shard](https://crystalshards.org/shards/github/philnash/crotp).
 
 - 🌏 I live in Melbourne, Australia
 - 🔭 I’m currently working on the [Twilio Serverless Toolkit](https://github.com/twilio-labs/serverless-toolkit)
