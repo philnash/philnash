@@ -1,5 +1,5 @@
 <h1 align="center">⚡️ Hi, I'm Phil Nash ⚡️</h1>
-<h4 align="center"><a href="https://twitter.com/philnash">Twitter</a> &bull; <a href="https://philna.sh">Blog</a> &bull; <a href="https://dev.to/philnash">DEV</a> &bull; <a href="https://www.linkedin.com/in/philnash/">LinkedIn</a> &bull; <a href="https://stackoverflow.com/users/28376/philnash">Stack Overflow</a></h4>
+<h4 align="center"><a href="https://twitter.com/philnash" rel="me">Twitter</a> &bull; <a href="https://philna.sh" rel="me">Blog</a> &bull; <a href="https://dev.to/philnash" rel="me">DEV</a> &bull; <a href="https://www.linkedin.com/in/philnash/" rel="me">LinkedIn</a> &bull; <a href="https://stackoverflow.com/users/28376/philnash" rel="me">Stack Overflow</a> &bull; <a href="https://mastodon.social/@philnash" rel="me">Mastodon</a></h4>
 
 ---
 
