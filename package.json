@@ -1,8 +1,11 @@
 {
   "name": "philnash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm card for Phil Nash",
   "main": "./src/card.js",
+  "bin": {
+    "philnash": "./bin/philnash.js"
+  },
   "type": "module",
   "scripts": {
     "build": "node .",
