@@ -1,6 +1,8 @@
 <h1 align="center">⚡️ Hi, I'm Phil Nash ⚡️</h1>
 <h4 align="center"><a href="https://twitter.com/philnash" rel="me">Twitter</a> &bull; <a href="https://philna.sh" rel="me">Blog</a> &bull; <a href="https://dev.to/philnash" rel="me">DEV</a> &bull; <a href="https://www.linkedin.com/in/philnash/" rel="me">LinkedIn</a> &bull; <a href="https://stackoverflow.com/users/28376/philnash" rel="me">Stack Overflow</a> &bull; <a href="https://mastodon.social/@philnash" rel="me">Mastodon</a></h4>
 
+<p align="center"><code>npx philnash</code></p>
+
 ---
 
 I'm a developer evangelist and a
