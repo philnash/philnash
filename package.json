@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "build": "node .",
-    "prepublish": "npm run build"
+    "prepublish": "npm run lint && npm run build",
+    "lint": "eslint \"src/**\" \"bin/**\""
   },
   "repository": {
     "type": "git",
@@ -38,6 +39,8 @@
   ],
   "devDependencies": {
     "boxen": "^7.0.0",
-    "chalk": "^5.1.2"
+    "chalk": "^5.1.2",
+    "eslint": "^8.27.0",
+    "eslint-plugin-sonarjs": "^0.16.0"
   }
 }
