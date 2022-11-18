@@ -1,0 +1,43 @@
+{
+  "name": "philnash",
+  "version": "1.0.0",
+  "description": "An npm card for Phil Nash",
+  "main": "./src/card.js",
+  "type": "module",
+  "scripts": {
+    "build": "node .",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philnash/philnash.git"
+  },
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card",
+    "philnash",
+    "phil nash"
+  ],
+  "author": {
+    "name": "Phil Nash",
+    "email": "philnash@gmail.com",
+    "url": "http://philna.sh"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philnash/philnash/issues"
+  },
+  "homepage": "https://github.com/philnash/philnash",
+  "files": [
+    "./bin/philnash.js",
+    "dist/output.txt"
+  ],
+  "devDependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.1.2"
+  }
+}
