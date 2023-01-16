@@ -18,6 +18,8 @@ const boxOptions = {
 const handle = "philnash";
 
 const data = [
+  chalk.white.bold("          Work: ") +
+    chalk.gray("Developer Advocate for Sonar"),
   chalk.white.bold("     Home page: ") + chalk.blue("https://philna.sh"),
   "",
   chalk.white.bold("       Twitter: ") +
