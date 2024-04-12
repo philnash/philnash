@@ -5,7 +5,7 @@
 
 ---
 
-I'm a developer advocate for [Sonar](https://github.com/sonarsource) and a
+I'm a developer advocate and a
 [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-phil-nash).
 I write [Ruby gems](https://rubygems.org/profiles/philnash),
 [Node packages](https://www.npmjs.com/~philnash) and even the occasional
@@ -14,7 +14,7 @@ I write [Ruby gems](https://rubygems.org/profiles/philnash),
 - 🌏 I live in Melbourne, Australia
 - 🔭 I’m currently working on the
   [ngrok extension for VS Code](https://github.com/philnash/ngrok-for-vscode)
-- 💬 Ask me about JavaScript, TypeScript, clean code
+- 💬 Ask me about JavaScript, TypeScript
 - 📫 How to reach me: [@philnash](https://twitter.com/philnash)
 - 😄 Pronouns: he/him
 - 🎧 Listening to: ska punk
