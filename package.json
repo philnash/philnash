@@ -1,6 +1,6 @@
 {
   "name": "philnash",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An npm card for Phil Nash",
   "main": "./src/card.js",
   "bin": {
@@ -42,7 +42,6 @@
   ],
   "devDependencies": {
     "boxen": "^7.1.1",
-    "chalk": "^5.3.0",
     "eslint": "^8.27.0",
     "eslint-plugin-sonarjs": "^0.16.0"
   }

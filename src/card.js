@@ -1,8 +1,8 @@
 import { writeFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { join } from "node:path";
+import { styleText } from "util"
 
-import chalk from "chalk";
 import boxen from "boxen";
 
 const __dirname = fileURLToPath(new URL(".", import.meta.url));
@@ -17,40 +17,30 @@ const boxOptions = {
 
 const handle = "philnash";
 
+const bold = (text) => styleText("bold", text);
+const white = (text) => styleText("white", text);
+const gray = (text) => styleText("gray", text);
+const blue = (text) => styleText("blue", text);
+const cyan = (text) => styleText("cyan", text);
+const magenta = (text) => styleText("magenta", text);
+const red = (text) => styleText("red", text);
+const yellow = (text) => styleText("yellow", text);
+
 const data = [
-  chalk.white.bold("          Work: ") +
-  chalk.gray("Developer Relations Engineer for ") + chalk.white("DataStax"),
-  chalk.white.bold("     Home page: ") + chalk.blue("https://philna.sh"),
+  white(bold("          Work: ")) + gray("Developer Relations Engineer for ") + white("DataStax"),
+  white(bold("     Home page: ")) + blue("https://philna.sh"),
   "",
-  chalk.white.bold("       Twitter: ") +
-  chalk.grey("https://twitter.com/") +
-  chalk.cyan(handle),
-  chalk.white.bold("      Mastodon: ") +
-  chalk.grey("https://mastodon.social/") +
-  chalk.magenta(`@${handle}`),
-  chalk.white.bold("      LinkedIn: ") +
-  chalk.grey("https://www.linkedin.com/in/") +
-  chalk.blue(handle),
+  white(bold("       Twitter: ")) + gray("https://twitter.com/") + cyan(handle),
+  white(bold("      Mastodon: ")) + gray("https://mastodon.social/") + magenta(`@${handle}`),
+  white(bold("      LinkedIn: ")) + gray("https://www.linkedin.com/in/") + blue(handle),
   "",
-  chalk.white.bold("           DEV: ") +
-  chalk.grey("https://dev.to/") +
-  chalk.white(handle),
-  chalk.white.bold("        Medium: ") +
-  chalk.grey("https://medium.com/") +
-  chalk.white(`@${handle}`),
+  white(bold("           DEV: ")) + gray("https://dev.to/") + white(handle),
+  white(bold("        Medium: ")) + gray("https://medium.com/") + white(`@${handle}`),
   "",
-  chalk.white.bold("        GitHub: ") +
-  chalk.grey("https://github.com/") +
-  chalk.white(handle),
-  chalk.white.bold("      RubyGems: ") +
-  chalk.grey("https://rubygems.org/profiles/") +
-  chalk.red(handle),
-  chalk.white.bold("           npm: ") +
-  chalk.grey("https://www.npmjs.com/") +
-  chalk.magenta(`~${handle}`),
-  chalk.white.bold("Stack Overflow: ") +
-  chalk.grey("https://stackoverflow.com/users/28376/") +
-  chalk.yellow(handle),
+  white(bold("        GitHub: ")) + gray("https://github.com/") + white(handle),
+  white(bold("      RubyGems: ")) + gray("https://rubygems.org/profiles/") + red(handle),
+  white(bold("           npm: ")) + gray("https://www.npmjs.com/") + magenta(`~${handle}`),
+  white(bold("Stack Overflow: ")) + gray("https://stackoverflow.com/users/28376/") + yellow(handle),
 ];
 
 const output = boxen(data.join("\n"), boxOptions);
