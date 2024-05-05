@@ -5,7 +5,7 @@
 
 ---
 
-I'm a developer advocate and a
+I'm a developer relations engineer for [DataStax](https://www.datastax.com/) and a
 [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-phil-nash).
 I write [Ruby gems](https://rubygems.org/profiles/philnash),
 [Node packages](https://www.npmjs.com/~philnash) and even the occasional
