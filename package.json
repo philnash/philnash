@@ -1,6 +1,6 @@
 {
   "name": "philnash",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "An npm card for Phil Nash",
   "main": "./src/card.js",
   "bin": {
