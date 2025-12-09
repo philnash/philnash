@@ -5,18 +5,16 @@
 
 ---
 
-I'm a developer relations engineer for [DataStax](https://www.datastax.com/) and a
+I'm a developer relations engineer for [IBM](https://www.ibm.com/products/langflow) and a
 [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-phil-nash).
 I write [Ruby gems](https://rubygems.org/profiles/philnash),
 [Node packages](https://www.npmjs.com/~philnash) and even the occasional
 [Crystal shard](https://crystalshards.org/authors/philnash@gmail.com).
 
 - 🌏 I live in Melbourne, Australia
-- 🔭 I’m currently working on the
-  [ngrok extension for VS Code](https://github.com/philnash/ngrok-for-vscode)
-- 💬 Ask me about JavaScript, TypeScript
+- 🔭 I’m currently working on [Langflow](https://github.com/langflow-ai/langflow)
+- 💬 Ask me about JavaScript, TypeScript, AI
 - 📫 How to reach me: [@philnash](https://twitter.com/philnash)
 - 😄 Pronouns: he/him
 - 🎧 Listening to: ska punk
-- ⚡ Fun fact: I once helped build an app that collected
-  [the UK's favourite sandwich fillings](http://thegreatbritishsandwich.com/)
+- ⚡ Fun fact: Sometimes I run karaoke nights at developer conferences
