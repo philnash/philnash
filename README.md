@@ -5,8 +5,8 @@
 
 ---
 
-I'm a developer relations engineer for [IBM](https://www.ibm.com/products/langflow) and a
-[Google Developer Expert](https://g.dev/philnash).
+I'm a developer relations engineer, a
+[Google Developer Expert](https://g.dev/philnash), and an [AAIF Ambassador](https://aaif.io/ambassadors/).
 I write [Ruby gems](https://rubygems.org/profiles/philnash),
 [Node packages](https://www.npmjs.com/~philnash), and [blog posts](https://philna.sh/blog/).
 
