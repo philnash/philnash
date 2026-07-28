@@ -27,7 +27,7 @@ const red = (text) => styleText("red", text);
 const yellow = (text) => styleText("yellow", text);
 
 const data = [
-  white(bold("          Work: ")) + gray("Developer Relations Engineer"),
+  white(bold("          Work: ")) + gray("Developer Experience Engineer for Resend"),
   white(bold("     Home page: ")) + blue("https://philna.sh"),
   "",
   white(bold("       Twitter: ")) + gray("https://twitter.com/") + cyan(handle),

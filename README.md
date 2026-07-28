@@ -5,7 +5,7 @@
 
 ---
 
-I'm a developer relations engineer, a
+I'm a developer experience engineer for [Resend](https://resend.com), a
 [Google Developer Expert](https://g.dev/philnash), and an [AAIF Ambassador](https://aaif.io/ambassadors/).
 I write [Ruby gems](https://rubygems.org/profiles/philnash),
 [Node packages](https://www.npmjs.com/~philnash), and [blog posts](https://philna.sh/blog/).
